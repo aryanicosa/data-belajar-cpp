@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1610270933 source:d:\jogja embedded\00 belajar programing & web\c++ dasar\belajar c++\belajar oop encapsulasi getter setter\player.cpp
+	<iostream>
+	<string>
+	"Player.h"
+
+1610270935 d:\jogja embedded\00 belajar programing & web\c++ dasar\belajar c++\belajar oop encapsulasi getter setter\player.h
+	<string>
+

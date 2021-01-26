@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1610250755 source:d:\jogja embedded\00 belajar programing & web\c++ dasar\belajar c++\belajar oop public and private class\main.cpp
+	<iostream>
+	<string>
+	"Mahasiswa.hpp"
+
+1610250753 d:\jogja embedded\00 belajar programing & web\c++ dasar\belajar c++\belajar oop public and private class\mahasiswa.hpp
+	<iostream>
+	<string>
+

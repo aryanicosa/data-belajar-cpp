@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608103056 source:d:\jogja embedded\00 belajar programing & web\c++ dasar\belajar c++\latihan crud 2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

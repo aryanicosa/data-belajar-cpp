@@ -1,0 +1,8 @@
+membaca eksternal file
+termasuk line baru
+
+data
+no	nama
+1	anjai
+2	anjim
+3	asiap

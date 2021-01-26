@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609563083 source:d:\jogja embedded\00 belajar programing & web\c++ dasar\belajar c++\belajar oop latihan dasar oop\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+

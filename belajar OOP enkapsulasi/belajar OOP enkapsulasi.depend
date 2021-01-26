@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1610281093 source:d:\jogja embedded\00 belajar programing & web\c++ dasar\belajar c++\belajar oop enkapsulasi\player.cpp
+	<iostream>
+	"Player.hpp"
+
+1610280790 d:\jogja embedded\00 belajar programing & web\c++ dasar\belajar c++\belajar oop enkapsulasi\player.hpp
+	<string>
+	"Weapon.hpp"
+
+1610280218 source:d:\jogja embedded\00 belajar programing & web\c++ dasar\belajar c++\belajar oop enkapsulasi\weapon.cpp
+	<iostream>
+	"Weapon.hpp"
+
+1610280915 source:d:\jogja embedded\00 belajar programing & web\c++ dasar\belajar c++\belajar oop enkapsulasi\main.cpp
+	<iostream>
+	<string>
+	"Player.hpp"
+	"Weapon.hpp"
+
+1610281040 d:\jogja embedded\00 belajar programing & web\c++ dasar\belajar c++\belajar oop enkapsulasi\weapon.hpp
+	<string>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1610247822 source:d:\jogja embedded\00 belajar programing & web\c++ dasar\belajar c++\belajar oop multiple file\main.cpp
+	<iostream>
+	<string>
+	"Player.h"
+
+1610247970 d:\jogja embedded\00 belajar programing & web\c++ dasar\belajar c++\belajar oop multiple file\player.h
+	<string>
+
+1610248722 source:d:\jogja embedded\00 belajar programing & web\c++ dasar\belajar c++\belajar oop multiple file\player.cpp
+	<iostream>
+	<string>
+	"Player.h"
+
